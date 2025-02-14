@@ -1,5 +1,6 @@
-## Hi there 👋
+## Software Developer Student
 
+Hola, soy un ingeniero de software en su 3er año de carrera que busca crear proyectos de calidad variados para demostrar sus habilidades y conocimientos de programación principalmente en Java. Aquí debajo podréis ver algunos de los que ya llevo hechos. ¡Un saludo!
 <!--
 **josebelchi/josebelchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
